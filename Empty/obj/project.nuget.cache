@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPRB3jMsqfaWHk5HeX8viW6Sieg6/6B4rovyW1PoqQ+LT7aXSTNgQtxYG4L7N/pUxzyKiBxyUfQK27wY1sliXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrpyt\\Documents\\Projects\\VisualStudio\\Empty\\Empty\\Empty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrpyt\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\mrpyt\\.nuget\\packages\\monogame.framework.android\\3.8.1.303\\monogame.framework.android.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\mrpyt\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.8\\microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\mrpyt\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm64\\6.0.8\\microsoft.netcore.app.host.linux-arm64.6.0.8.nupkg.sha512",
+    "C:\\Users\\mrpyt\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.8\\microsoft.netcore.app.host.linux-arm.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
